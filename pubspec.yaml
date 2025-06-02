@@ -1,0 +1,15 @@
+
+name: sim_repair_profit_app
+description: A simple app to track SIM card and mobile repair profits.
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.17.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  intl: ^0.18.1
+
+flutter:
+  uses-material-design: true
